@@ -1,4 +1,4 @@
-package com.hben.bookstoreService;
+package org.book.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
